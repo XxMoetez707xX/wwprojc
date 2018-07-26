@@ -1,0 +1,80 @@
+
+.leftside {
+    text-align: center;
+    position: fixed;
+    width: 32%;
+    height: 900px;
+    padding-top: 100px;
+    padding-left: 0px ;       
+    background-color: #444D5E;
+    color: whitesmoke ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  }
+    
+    .zoom {
+        padding: 0px;
+        background-color: green;
+        transition: transform .2s; /* Animation */
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+    }
+    .zoom:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+ .text1 {
+    color: beige ;
+     display: block ;
+    position: absolute;
+    background-color : #2E3145;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    right: 18px ;
+    left: 426px ;
+    top : 15px ;
+    height: 185px ;
+    bottom: 151px ;
+    margin-right: 0px;
+ }
+
+ .text2 {
+    color: beige ;
+    display: block ;
+    position: absolute ;
+   background-color:#2E3145;
+   padding-top: 20px;
+   padding-right: 40px;
+   padding-bottom: 20px;
+   padding-left: 40px;
+   height: 180px ;
+   top: 150px ;
+   width: 760px ;
+   left : 428px ;    
+   margin-top:100px;
+   margin-left:0px ;
+   right: 15px;
+}
+
+
+.text3 {
+    color: beige ;
+    display: block ;
+    position: absolute ;
+   background-color: #2E3145;
+   padding-top: 20px;
+   padding-right: 40px;
+   padding-bottom: 20px;
+   padding-left: 40px;
+   height: 200px ;
+   top: 380px ;
+   width: 760px ;
+   left : 428px ;    
+   margin-top:100px;
+   margin-left:0px ;
+   right: 15px;
+}
+ #textet {
+     font-family: 'Courier New', Courier, monospace 
+ }
+ 

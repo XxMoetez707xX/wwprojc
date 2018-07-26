@@ -1,0 +1,12 @@
+
+p {display: block;
+    width: 33% ;}
+p:hover {background-color: skyblue}
+#AA  {color: red}
+.AB{color : darkblue }
+#AA{padding-top: 5px;padding-left: 10px;padding-right: 15px;padding-bottom: 20px  }
+p {background-color: tomato}
+#hello {background-color: rgb(226, 43, 43); border : 4px solid blue;}
+
+#AC {margin-bottom: 35px ;margin-top: 35px ;margin-left:35px ;margin-right: 5px;}
+#AD {display: none }
